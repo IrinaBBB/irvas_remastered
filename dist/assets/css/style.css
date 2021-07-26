@@ -475,6 +475,10 @@ textarea:focus {
   font-style: normal;
 }
 
+div.active-link > a {
+  color: #454545
+}
+
 .glazing_price_btn {
   padding: 2rem 2rem;
 }
